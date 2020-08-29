@@ -86,7 +86,7 @@ body{
 }
 
 .back2 {
-	width: 600px;
+	width: 800px;
 	height: 800px;
 	background-image: url(../img/back2.jpg);
 	margin: 0 auto;
@@ -114,6 +114,16 @@ h1 {
 	opacity: 0.5;
 	text-align: center;
 
+}
+
+.quote {
+	width: 500px;
+	height: 750px;
+	background-image: url(../img/quote.jpg);
+	border-radius: 15%;
+	margin: 0 auto;
+	margin-top: 30px;
+	border: 2px solid black;
 }
 
 @media (max-width: 920px) {
@@ -209,7 +219,7 @@ h1 {
 }
 
 .back2 {
-	width: 300px;
+	width: 400px;
 	height: 800px;
 	background-image: url(../img/back2.jpg);
 	margin: 0 auto;
@@ -217,6 +227,13 @@ h1 {
 	margin-bottom: 5px;
 	overflow: hidden;
 
+}
+
+.quote {
+	width: 236px;
+	height: 301px;
+	background-image: url(../img/quote2.jpg) ;
+	margin-top: 250px;
 }
 }
 
